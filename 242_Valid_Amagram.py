@@ -1,6 +1,8 @@
 # https://leetcode.com/problems/valid-anagram/
 # Algo: Hash Table
+
 # Too slow
+# but manages to pass the test and should use less space than the solution below
 # class Solution:
 # def isAnagram(self, s: str, t: str) -> bool:
 #     if sorted(s) == sorted(t):
